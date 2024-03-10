@@ -75,6 +75,7 @@ if __name__ == "__main__":
 	# we create an instance of this class 
 	equation = StringVar() 
 
+# Test one
 	# create the text entry box for 
 	# showing the expression . 
 	expression_field = Entry(gui, textvariable=equation, justify = CENTER, font = ('courier', 17, 'bold')) 
